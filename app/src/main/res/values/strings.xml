@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AquaBalance</string>
+    <string name="logout">Logout</string>
+    <string name="if_already_registered_sign_in">If already registered, Sign In</string>
+    <string name="register">Register</string>
+    <string name="user_dashboard">User Dashboard</string>
+
+    <!-- Login screen strings -->
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>
